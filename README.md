@@ -1,2 +1,2 @@
-# Project1
+# Prog_proj1
 First assigment 
